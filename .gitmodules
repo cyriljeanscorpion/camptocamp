@@ -7,3 +7,8 @@
 	path = camptocamp/smartcamp_core_private
 	url = git@github.com:camptocamp/smartcamp_core_private.git
 	branch = 15.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 15.0
